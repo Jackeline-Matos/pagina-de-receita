@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Page" src="/assets/-pagina-de-receita">
+  <img alt="Page" src="/assets/-pagina-de-receita.png">
 </p>
 
 <br>
